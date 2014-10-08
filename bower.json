@@ -1,0 +1,23 @@
+{
+  "name": "polymerwin",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codekidX/PolymerWin",
+  "authors": [
+    "codekidX <ckrackerx15@gmail.com>"
+  ],
+  "description": "polymer setup using bower to work in windows perfectly",
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2"
+  }
+}
